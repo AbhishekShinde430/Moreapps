@@ -1,0 +1,3 @@
+include ':Moreapps'
+include ':app'
+rootProject.name = "LibrayProject"
